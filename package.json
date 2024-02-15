@@ -10,11 +10,11 @@
     "test": "vitest"
   },
   "dependencies": {
-    "@vue/test-utils": "^2.4.4",
     "vue": "^3.3.11"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.5.2",
+    "@vue/test-utils": "^2.4.4",
     "vite": "^5.0.12",
     "vitest": "^1.2.2",
     "jsdom": "^24.0.0"
