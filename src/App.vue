@@ -1,5 +1,5 @@
 <script setup>
-import Blackjack from './components/Blackjack.vue'
+  import Blackjack from './components/Blackjack.vue'
 </script>
 
 <template>
